@@ -1,0 +1,8 @@
+{
+  "verified": "✔️",
+  "error": "✖️",
+  "threshold": 10000,
+    "amount": 5,
+    "token": "bot-token",
+    "defaultPrefix": "+"
+}
