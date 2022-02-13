@@ -1,17 +1,12 @@
-**First go to config.json and fill the things what u want**
-
-**now go to config.js and fill all details**
+**Full Comand Project**
 
 
-**Now in the console/terminal type this command: npm install**
+**BY : POLAT BOT**
 
 
-**now you can enjoy**
-
-**ANY ERROR JOIN OUR [SERVER](https://discord.gg/KFgjzvhQ7g)**
+**TB :lasar Databaese Ish Dakat boya agar nazanet le dast kari makawa wazi le bena sare mnish mayashena**
 
 
 
-**NOTE:-**
+**JOIN  [SERVER](https://discord.gg/ttx9b2YcaP)**
 
-**In this project some codes are not made so if you know coding u can add it**
